@@ -45,7 +45,7 @@
 
 <b>📞 CONTACT ADMIN</b>
 
-👤 <b><a href="https://t.me/nxJeremiah">@nxJeremiah</a></b>
+👤 <b><a href="https://t.me/EstateGroup0">@EstateGroup0</a></b>
 
 ⚡ <i><b>Don't miss out on this opportunity!</b></i> ⚡
 💬 <i><b>Contact us now for more information!</b></i> 💬`;
