@@ -37,7 +37,7 @@
 
 🎨 <b>100+ WEBSITES LANDING PAGES FOR FREE</b>
 
-<b>💵 PRICING</b>
+<b>💵 PRICING(SALE)</b>
 
 <b>Full source code price:</b> <code>$800 USDT</code>
 
